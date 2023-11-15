@@ -1,3 +1,7 @@
+%% Code Outline
+
+% The following code runs the main GLM analyses but using 1000 Schaefer cortical nodes.
+
 %% Load in task data
 
 % Baseline + Rotation
