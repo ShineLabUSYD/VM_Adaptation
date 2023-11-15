@@ -1,6 +1,10 @@
 %% Code Outline
 
 % This code produces the results for behavioural analyses
+%        - statistical comparisons of early vs. late for each condition
+%        - compares final performance across conditions
+%        - compares learning and initial performance
+%        - code for FIGURE 2B/C
 
 
 %% Statistical Comparisons of Behavioural data (BIS)
