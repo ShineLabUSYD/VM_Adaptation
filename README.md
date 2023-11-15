@@ -1,7 +1,9 @@
 # The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task
 This repository contains the code used in my project *"The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task"*. 
 
-Code was written using a combination of MATLAB and Python scripts.
+**Code** was written using a combination of MATLAB and Python scripts.
+
+**Data** was downloaded from *OpenNeuro* [ds004021](https://openneuro.org/datasets/ds004021/versions/1.0.0) and originally collected from this [paper](https://academic.oup.com/cercor/article-abstract/33/8/4761/6761518?login=false)
 ## code
 The code folder contains the code required to run the analyses and produce the figures. The following scripts will be described in an order that fits with the manuscript and analyses. Note that these scripts are not functions and should be viewed similar to a notebook.
 - [dataprep.m](https://github.com/ShineLabUSYD/VM_Adaptation/blob/main/Code/dataprep.m) includes code for processing the data after pre-processing. Reads in the behavioural data (.tsv) and timeseries data (.mat), and removes outliers, missing values, as well as normalises number of trials per subject (refer to manuscript for more details). **The outputs from this script are used for all analyses described below.** This script contains code to generate Figures 1 and 2A.
