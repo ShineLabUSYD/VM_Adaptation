@@ -4,6 +4,10 @@
 % surf_cbm = cerebellum plot
 % subcort_plot or plot_subcortical = subcortical plots
 
+% The following script contains code for:
+%        - all GLMs created in the manuscript
+%        - comparisons against Neurosynth data
+
 
 %% Peak TRs BOLD analysis
 
