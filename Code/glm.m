@@ -99,7 +99,7 @@ Ghalf_id(G2_coef(:,1)==1) = 1;
 
 % Spin Permutations
 load('C:\Users\JoshB\OneDrive\Documents\MATLAB_Analysis\MATLAB\Functions\statistic_testing\perm_id.mat');
-[p_perm, null_dist] = perm_sphere_p(mean_coef(1:400)',RT_coef(1:400)',perm_id,"pearson");
+p_perm = perm_sphere_p(mean_coef(1:400)',RT_coef(1:400)',perm_id,"pearson");
 
 % Comparison against Neurosynth data
 load('C:\PythonPrograms\NiMARE\ns_LDA400_activity.mat');
