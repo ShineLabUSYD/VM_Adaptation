@@ -14,3 +14,6 @@ The code folder contains the code required to run the analyses and produce the f
 - [supp_material.m](https://github.com/ShineLabUSYD/VM_Adaptation/blob/main/Code/supp_material.m) runs the main analyses from [glm.m](https://github.com/ShineLabUSYD/VM_Adaptation/blob/main/Code/glm.m) but uses 1000 Schaefer cortical nodes.
 
 We also provide code used to download and extract meta-analyses from the *Neurosynth database* ([neurosynth_analyses.py](https://github.com/ShineLabUSYD/VM_Adaptation/blob/main/Code/neurosynth_analysis.py)).
+
+## Visualisation
+The visualisation folder contains the code required to create the brain visualisations. Details regarding dependencies are described in the README file.
