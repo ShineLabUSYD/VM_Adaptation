@@ -1,1 +1,3 @@
+## Code to make brain visualisations
 
+To run surf_schaef2.mat, after downloading the relevant labels and surface files, you also need to have the *"gifti"* function
