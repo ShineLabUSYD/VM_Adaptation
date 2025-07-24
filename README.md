@@ -1,5 +1,5 @@
 # The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task
-This repository contains the code used in my project *"The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task"* https://doi.org/10.1162/imag_a_00271. 
+This repository contains the code used in my project *"The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task"* (https://doi.org/10.1162/imag_a_00271). 
 
 **Code** was written using a combination of MATLAB and Python scripts.
 
